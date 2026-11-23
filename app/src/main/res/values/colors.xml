@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_primary">#2563EB</color>
+    <color name="brand_deep">#1E40AF</color>
+    <color name="brand_teal">#1D4ED8</color>
+    <color name="gold">#C9A84C</color>
+    <color name="gold_light">#FEF9E7</color>
+    <color name="gold_dark">#A68B3C</color>
+    <color name="brand_sage">#92400E</color>
+    <color name="brand_lime">#16A34A</color>
+    <color name="background_light">#FFFFFF</color>
+    <color name="surface_light">#F8FAFC</color>
+</resources>

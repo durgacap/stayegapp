@@ -1,0 +1,8 @@
+{
+  "name": "StayEg",
+  "description": "India's #1 Smart PG Platform. Find verified PGs, book instantly with zero brokerage, manage rent, and handle tenant complaints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

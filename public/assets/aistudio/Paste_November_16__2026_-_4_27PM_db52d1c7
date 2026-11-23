@@ -1,0 +1,1032 @@
+16:06:23.167
+Backend
+Log
+ CONNECTED 
+16:06:23.390
+System
+Build
+ Render End 
+16:06:24.499
+Backend
+Log
+ Starting build...
+  > Task :app:preBuild UP-TO-DATE
+  > Task :app:preDebugBuild UP-TO-DATE
+  > Task :app:mergeDebugNativeDebugMetadata NO-SOURCE
+  > Task :app:checkKotlinGradlePluginConfigurationErrors SKIPPED
+  > Task :app:checkDebugAarMetadata UP-TO-DATE
+  > Task :app:generateDebugResValues UP-TO-DATE
+  > Task :app:mapDebugSourceSetPaths UP-TO-DATE
+  > Task :app:generateDebugResources UP-TO-DATE
+  > Task :app:mergeDebugResources UP-TO-DATE
+  > Task :app:packageDebugResources UP-TO-DATE
+  > Task :app:parseDebugLocalResources UP-TO-DATE
+  > Task :app:createDebugCompatibleScreenManifests UP-TO-DATE
+  > Task :app:extractDeepLinksDebug UP-TO-DATE
+  > Task :app:processDebugMainManifest UP-TO-DATE
+  > Task :app:processDebugManifest UP-TO-DATE
+  > Task :app:processDebugManifestForPackage UP-TO-DATE
+  > Task :app:processDebugResources UP-TO-DATE
+  > Task :app:compileDebugKotlin UP-TO-DATE
+  > Task :app:javaPreCompileDebug UP-TO-DATE
+  > Task :app:compileDebugJavaWithJavac NO-SOURCE
+  > Task :app:mergeDebugShaders UP-TO-DATE
+  > Task :app:compileDebugShaders NO-SOURCE
+  > Task :app:generateDebugAssets UP-TO-DATE
+  > Task :app:mergeDebugAssets UP-TO-DATE
+  > Task :app:compressDebugAssets UP-TO-DATE
+  > Task :app:desugarDebugFileDependencies UP-TO-DATE
+  > Task :app:dexBuilderDebug UP-TO-DATE
+  > Task :app:mergeDebugGlobalSynthetics UP-TO-DATE
+  > Task :app:processDebugJavaRes UP-TO-DATE
+  > Task :app:mergeDebugJavaResource UP-TO-DATE
+  > Task :app:checkDebugDuplicateClasses UP-TO-DATE
+  > Task :app:mergeExtDexDebug UP-TO-DATE
+  > Task :app:mergeLibDexDebug UP-TO-DATE
+  > Task :app:mergeProjectDexDebug UP-TO-DATE
+  > Task :app:mergeDebugJniLibFolders UP-TO-DATE
+  > Task :app:mergeDebugNativeLibs UP-TO-DATE
+  > Task :app:stripDebugDebugSymbols UP-TO-DATE
+  > Task :app:validateSigningDebug UP-TO-DATE
+  > Task :app:writeDebugAppMetadata UP-TO-DATE
+  > Task :app:writeDebugSigningConfigVersions UP-TO-DATE
+  > Task :app:packageDebug UP-TO-DATE
+  > Task :app:createDebugApkListingFileRedirect UP-TO-DATE
+  > Task :app:assembleDebug UP-TO-DATE
+  
+  [Incubating] Problems report is available at: file:///app/applet/build/reports/problems/problems-report.html
+  
+  Deprecated Gradle features were used in this build, making it incompatible with Gradle 10.
+  
+  You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+  
+  For more on this, please refer to https://docs.gradle.org/9.3.1/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+  
+  BUILD SUCCESSFUL in 2s
+  35 actionable tasks: 35 up-to-date
+  Consider enabling configuration cache to speed up this build: https://docs.gradle.org/9.3.1/userguide/configuration_cache_enabling.html 
+16:06:24.499
+Backend
+Log
+ Build successful. 
+16:06:24.499
+Backend
+Log
+ Environment variables updated. Dev server not running. 
+16:06:25.214
+Backend
+Log
+ Starting build... 
+16:06:26.662
+Backend
+Log
+ > Task :app:preBuild UP-TO-DATE 
+16:06:26.718
+Backend
+Log
+ > Task :app:preDebugBuild UP-TO-DATE 
+16:06:26.718
+Backend
+Log
+ > Task :app:mergeDebugNativeDebugMetadata NO-SOURCE 
+16:06:26.718
+Backend
+Log
+ > Task :app:checkKotlinGradlePluginConfigurationErrors SKIPPED 
+16:06:26.954
+Backend
+Log
+ > Task :app:checkDebugAarMetadata UP-TO-DATE 
+16:06:26.954
+Backend
+Log
+ > Task :app:generateDebugResValues UP-TO-DATE 
+16:06:26.954
+Backend
+Log
+ > Task :app:mapDebugSourceSetPaths UP-TO-DATE 
+16:06:26.954
+Backend
+Log
+ > Task :app:generateDebugResources UP-TO-DATE 
+16:06:26.954
+Backend
+Log
+ > Task :app:mergeDebugResources UP-TO-DATE 
+16:06:26.954
+Backend
+Log
+ > Task :app:packageDebugResources UP-TO-DATE 
+16:06:26.954
+Backend
+Log
+ > Task :app:parseDebugLocalResources UP-TO-DATE 
+16:06:26.955
+Backend
+Log
+ > Task :app:createDebugCompatibleScreenManifests UP-TO-DATE 
+16:06:26.955
+Backend
+Log
+ > Task :app:extractDeepLinksDebug UP-TO-DATE 
+16:06:27.104
+Backend
+Log
+ > Task :app:processDebugMainManifest UP-TO-DATE 
+16:06:27.104
+Backend
+Log
+ > Task :app:processDebugManifest UP-TO-DATE 
+16:06:27.104
+Backend
+Log
+ > Task :app:processDebugManifestForPackage UP-TO-DATE 
+16:06:27.104
+Backend
+Log
+ > Task :app:processDebugResources UP-TO-DATE 
+16:06:27.104
+Backend
+Log
+ > Task :app:compileDebugKotlin UP-TO-DATE 
+16:06:27.104
+Backend
+Log
+ > Task :app:javaPreCompileDebug UP-TO-DATE 
+16:06:27.104
+Backend
+Log
+ > Task :app:compileDebugJavaWithJavac NO-SOURCE 
+16:06:27.104
+Backend
+Log
+ > Task :app:mergeDebugShaders UP-TO-DATE 
+16:06:27.104
+Backend
+Log
+ > Task :app:compileDebugShaders NO-SOURCE 
+16:06:27.104
+Backend
+Log
+ > Task :app:generateDebugAssets UP-TO-DATE 
+16:06:27.104
+Backend
+Log
+ > Task :app:mergeDebugAssets UP-TO-DATE 
+16:06:27.104
+Backend
+Log
+ > Task :app:compressDebugAssets UP-TO-DATE 
+16:06:27.104
+Backend
+Log
+ > Task :app:desugarDebugFileDependencies UP-TO-DATE 
+16:06:27.104
+Backend
+Log
+ > Task :app:dexBuilderDebug UP-TO-DATE 
+16:06:27.104
+Backend
+Log
+ > Task :app:mergeDebugGlobalSynthetics UP-TO-DATE 
+16:06:27.104
+Backend
+Log
+ > Task :app:processDebugJavaRes UP-TO-DATE 
+16:06:27.104
+Backend
+Log
+ > Task :app:mergeDebugJavaResource UP-TO-DATE 
+16:06:27.104
+Backend
+Log
+ > Task :app:checkDebugDuplicateClasses UP-TO-DATE 
+16:06:27.237
+Backend
+Log
+ > Task :app:mergeExtDexDebug UP-TO-DATE 
+16:06:27.237
+Backend
+Log
+ > Task :app:mergeLibDexDebug UP-TO-DATE 
+16:06:27.237
+Backend
+Log
+ > Task :app:mergeProjectDexDebug UP-TO-DATE 
+16:06:27.348
+Backend
+Log
+ > Task :app:mergeDebugJniLibFolders UP-TO-DATE 
+16:06:27.348
+Backend
+Log
+ > Task :app:mergeDebugNativeLibs UP-TO-DATE 
+16:06:27.348
+Backend
+Log
+ > Task :app:stripDebugDebugSymbols UP-TO-DATE 
+16:06:27.348
+Backend
+Log
+ > Task :app:validateSigningDebug UP-TO-DATE 
+16:06:27.348
+Backend
+Log
+ > Task :app:writeDebugAppMetadata UP-TO-DATE 
+16:06:27.348
+Backend
+Log
+ > Task :app:writeDebugSigningConfigVersions UP-TO-DATE 
+16:06:27.348
+Backend
+Log
+ > Task :app:packageDebug UP-TO-DATE 
+16:06:27.348
+Backend
+Log
+ > Task :app:createDebugApkListingFileRedirect UP-TO-DATE 
+16:06:27.348
+Backend
+Log
+ > Task :app:assembleDebug UP-TO-DATE 
+16:06:27.348
+Backend
+Log
+ [Incubating] Problems report is available at: file:///app/applet/build/reports/problems/problems-report.html 
+16:06:27.348
+Backend
+Log
+ Deprecated Gradle features were used in this build, making it incompatible with Gradle 10. 
+16:06:27.348
+Backend
+Log
+ You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins. 
+16:06:27.348
+Backend
+Log
+ For more on this, please refer to https://docs.gradle.org/9.3.1/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation. 
+16:06:27.401
+Backend
+Log
+ BUILD SUCCESSFUL in 2s 
+16:06:27.402
+Backend
+Log
+ 35 actionable tasks: 35 up-to-date 
+16:06:27.402
+Backend
+Log
+ Consider enabling configuration cache to speed up this build: https://docs.gradle.org/9.3.1/userguide/configuration_cache_enabling.html 
+16:06:27.402
+Backend
+Log
+ Build successful. 
+16:06:46.368
+Android
+Log
+ 11-16 10:36:29.400 5543 I/o.stayeg.rvxkpm: Late-enabling -Xcheck:jni 
+16:06:46.368
+Android
+Log
+ 11-16 10:36:29.424 5543 I/o.stayeg.rvxkpm: Using CollectorTypeCMC GC. 
+16:06:46.368
+Android
+Debug
+ 11-16 10:36:29.443 5543 D/nativeloader: Load libframework-connectivity-tiramisu-jni.so using APEX ns com_android_tethering for caller /apex/com.android.tethering/javalib/framework-connectivity-t.jar: ok 
+16:06:46.368
+Android
+Warning
+ 11-16 10:36:29.553 5543 W/ziparchive: Unable to open '/data/app/~~zdgc7ehOT8xlo9Z_f0nihw==/com.aistudio.stayeg.rvxkpm-iw9MYFkB_7CQW8dO3XgLLA==/base.dm': No such file or directory
+Unable to open '/data/app/~~zdgc7ehOT8xlo9Z_f0nihw==/com.aistudio.stayeg.rvxkpm-iw9MYFkB_7CQW8dO3XgLLA==/base.dm': No such file or directory 
+16:06:46.368
+Android
+Debug
+ 11-16 10:36:30.143 5543 D/nativeloader: Configuring clns-7 for other apk /data/app/~~zdgc7ehOT8xlo9Z_f0nihw==/com.aistudio.stayeg.rvxkpm-iw9MYFkB_7CQW8dO3XgLLA==/base.apk. target_sdk_version=35, uses_libraries=, library_path=/data/app/~~zdgc7ehOT8xlo9Z_f0nihw==/com.aistudio.stayeg.rvxkpm-iw9MYFkB_7CQW8dO3XgLLA==/lib/arm64:/data/app/~~zdgc7ehOT8xlo9Z_f0nihw==/com.aistudio.stayeg.rvxkpm-iw9MYFkB_7CQW8dO3XgLLA==/base.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand:/data/user/0/com.aistudio.stayeg.rvxkpm 
+16:06:46.368
+Android
+Debug
+ 11-16 10:36:30.145 5543 D/CompatChangeReporter: Compat change id reported: 202956589; UID 10215; state: ENABLED 
+16:06:46.368
+Android
+Debug
+ 11-16 10:36:30.153 5543 V/GraphicsEnvironment: Currently set values for:
+angle_gl_driver_selection_pkgs=[]
+angle_gl_driver_selection_values=[]
+Global.Settings values are invalid: number of packages: 0, number of values: 0
+Neither updatable production driver nor prerelease driver is supported. 
+16:06:46.368
+Android
+Debug
+ 11-16 10:36:30.171 5543 D/CompatChangeReporter: Compat change id reported: 279646685; UID 10215; state: ENABLED 
+16:06:46.368
+Android
+Debug
+ 11-16 10:36:30.235 5543 D/CompatChangeReporter: Compat change id reported: 309578419; UID 10215; state: ENABLED 
+16:06:46.368
+Android
+Warning
+ 11-16 10:36:30.503 5543 W/HWUI    : Unknown dataspace 0 
+16:06:46.368
+Android
+Debug
+ 11-16 10:36:30.511 5543 D/TrafficStats: tagSocket(96) with statsTag=0xffffffff, statsUid=-1 
+16:06:46.368
+Android
+Warning
+ 11-16 10:36:30.703 5543 W/WindowOnBackDispatcher: OnBackInvokedCallback is not enabled for the application.
+Set 'android:enableOnBackInvokedCallback="true"' in the application manifest. 
+16:06:46.368
+Android
+Log
+ 11-16 10:36:30.704 5543 I/o.stayeg.rvxkpm: Compiler allocated 5250KB to compile void android.view.ViewRootImpl.performTraversals() 
+16:06:46.368
+Android
+Warning
+ 11-16 10:36:30.749 5543 W/o.stayeg.rvxkpm: Method boolean androidx.compose.runtime.snapshots.SnapshotStateList.conditionalUpdate(boolean, kotlin.jvm.functions.Function1) failed lock verification and will run slower.
+Common causes for lock verification issues are non-optimized dex code
+and incorrect proguard optimizations.
+Method boolean androidx.compose.runtime.snapshots.SnapshotStateList.conditionalUpdate$default(androidx.compose.runtime.snapshots.SnapshotStateList, boolean, kotlin.jvm.functions.Function1, int, java.lang.Object) failed lock verification and will run slower.
+Method java.lang.Object androidx.compose.runtime.snapshots.SnapshotStateList.mutate(kotlin.jvm.functions.Function1) failed lock verification and will run slower. 
+16:06:46.368
+Android
+Warning
+ 11-16 10:36:30.750 5543 W/o.stayeg.rvxkpm: Method void androidx.compose.runtime.snapshots.SnapshotStateList.update(boolean, kotlin.jvm.functions.Function1) failed lock verification and will run slower.
+Method void androidx.compose.runtime.snapshots.SnapshotStateList.update$default(androidx.compose.runtime.snapshots.SnapshotStateList, boolean, kotlin.jvm.functions.Function1, int, java.lang.Object) failed lock verification and will run slower. 
+16:06:46.368
+Android
+Warning
+ 11-16 10:36:30.967 5543 W/StayEgSupabase: Direct TCP 6543 unavailable in emulator (null), loading 2,415 Supabase snapshot rows 
+16:06:46.368
+Android
+Debug
+ 11-16 10:36:30.969 5543 D/TrafficStats: tagSocket(96) with statsTag=0xffffffff, statsUid=-1 
+16:06:46.368
+Android
+Log
+ 11-16 10:36:30.993 5543 I/EGL_emulation: Opening libGLESv1_CM_emulation.so 
+16:06:46.368
+Android
+Log
+ 11-16 10:36:30.994 5543 I/EGL_emulation: Opening libGLESv2_emulation.so 
+16:06:46.368
+Android
+Warning
+ 11-16 10:36:31.000 5543 W/HWUI    : Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+Failed to initialize 101010-2 format, error = EGL_SUCCESS 
+16:06:46.368
+Android
+Log
+ 11-16 10:36:31.046 5543 I/Gralloc4: mapper 4.x is not supported 
+16:06:46.368
+Android
+Log
+ 11-16 10:36:31.172 5543 I/Choreographer: Skipped 38 frames!  The application may be doing too much work on its main thread. 
+16:06:46.368
+Android
+Warning
+ 11-16 10:36:31.566 5543 W/StayEgSupabase: Direct TCP 6543 blocked by emulator proxy (null); using synced Supabase snapshot 
+16:06:46.368
+Android
+Debug
+ 11-16 10:36:31.568 5543 D/TrafficStats: tagSocket(96) with statsTag=0xffffffff, statsUid=-1 
+16:06:46.368
+Android
+Log
+ 11-16 10:36:31.611 5543 I/HWUI    : Davey! duration=1009ms; Flags=1, FrameTimelineVsyncId=25994, IntendedVsync=212627764307, Vsync=212627764307, InputEventId=0, HandleInputStart=212628457808, AnimationStart=212628458475, PerformTraversalsStart=212628458975, DrawStart=213168641350, FrameDeadline=212644430973, FrameInterval=212628453141, FrameStartTime=16666666, SyncQueued=213206904308, SyncStart=213208301642, IssueDrawCommandsStart=213209199600, SwapBuffers=213270861392, FrameCompleted=213638431850, DequeueBufferDuration=1792, QueueBufferDuration=130791, GpuCompleted=213638431850, SwapBuffersCompleted=213273497183, DisplayPresentTime=72904454231359566, CommandSubmissionCompleted=213270861392,  
+16:06:46.368
+Android
+Log
+ 11-16 10:36:31.638 5543 I/HWUI    : Davey! duration=1063ms; Flags=0, FrameTimelineVsyncId=26016, IntendedVsync=212644430973, Vsync=213277764281, InputEventId=0, HandleInputStart=213285456517, AnimationStart=213285456975, PerformTraversalsStart=213299299392, DrawStart=213299334558, FrameDeadline=213661097599, FrameInterval=213283977058, FrameStartTime=16666666, SyncQueued=213301769517, SyncStart=213316441058, IssueDrawCommandsStart=213317075475, SwapBuffers=213647569600, FrameCompleted=213722885433, DequeueBufferDuration=2833, QueueBufferDuration=273542, GpuCompleted=213722885433, SwapBuffersCompleted=213657796142, DisplayPresentTime=144115222452437076, CommandSubmissionCompleted=213647569600,  
+16:06:46.368
+Android
+Warning
+ 11-16 10:36:32.045 5543 W/StayEgSupabase: Realtime changelog setup warning: null 
+16:06:46.368
+Android
+Debug
+ 11-16 10:36:32.047 5543 D/TrafficStats: tagSocket(96) with statsTag=0xffffffff, statsUid=-1 
+16:06:46.368
+Android
+Debug
+ 11-16 10:36:35.510 5543 D/ProfileInstaller: Installing profile for com.aistudio.stayeg.rvxkpm 
+16:06:46.368
+Android
+Debug
+ 11-16 10:36:42.523 5543 D/TrafficStats: tagSocket(96) with statsTag=0xffffffff, statsUid=-1 
+16:07:05.213
+Android
+Debug
+ 11-16 10:36:52.980 5543 D/TrafficStats: tagSocket(5) with statsTag=0xffffffff, statsUid=-1 
+16:07:25.209
+Android
+Debug
+ 11-16 10:37:03.469 5543 D/TrafficStats: tagSocket(5) with statsTag=0xffffffff, statsUid=-1 
+16:07:25.209
+Android
+Debug
+ 11-16 10:37:09.305 5543 D/EGL_emulation: app_time_stats: avg=7604.23ms min=17.38ms max=37517.12ms count=5 
+16:07:25.209
+Android
+Debug
+ 11-16 10:37:10.319 5543 D/EGL_emulation: app_time_stats: avg=16.40ms min=1.21ms max=89.57ms count=35 
+16:07:25.209
+Android
+Debug
+ 11-16 10:37:13.946 5543 D/TrafficStats: tagSocket(114) with statsTag=0xffffffff, statsUid=-1 
+16:07:45.223
+Android
+Debug
+ 11-16 10:37:24.409 5543 D/TrafficStats: tagSocket(114) with statsTag=0xffffffff, statsUid=-1 
+16:07:45.224
+Android
+Debug
+ 11-16 10:37:27.052 5543 D/EGL_emulation: app_time_stats: avg=2776.76ms min=2.14ms max=16617.56ms count=6 
+16:07:45.224
+Android
+Log
+ 11-16 10:37:27.402 5543 I/o.stayeg.rvxkpm: Compiler allocated 5056KB to compile void com.example.stayeg.ui.screens.CommunityScreenKt$PostCard$1.invoke(androidx.compose.foundation.layout.ColumnScope, androidx.compose.runtime.Composer, int) 
+16:07:45.224
+Android
+Debug
+ 11-16 10:37:28.057 5543 D/EGL_emulation: app_time_stats: avg=11.52ms min=1.91ms max=27.20ms count=43 
+16:07:45.224
+Android
+Debug
+ 11-16 10:37:31.317 5543 D/EGL_emulation: app_time_stats: avg=803.29ms min=3.39ms max=3186.68ms count=4 
+16:07:45.224
+Android
+Debug
+ 11-16 10:37:34.098 5543 D/EGL_emulation: app_time_stats: avg=53.36ms min=1.72ms max=1833.32ms count=42 
+16:07:45.224
+Android
+Debug
+ 11-16 10:37:34.899 5543 D/TrafficStats: tagSocket(5) with statsTag=0xffffffff, statsUid=-1 
+16:08:05.223
+Android
+Debug
+ 11-16 10:37:45.373 5543 D/TrafficStats: tagSocket(5) with statsTag=0xffffffff, statsUid=-1 
+16:08:05.223
+Android
+Debug
+ 11-16 10:37:55.832 5543 D/TrafficStats: tagSocket(5) with statsTag=0xffffffff, statsUid=-1 
+16:08:05.223
+Android
+Debug
+ 11-16 10:37:56.118 5543 D/EGL_emulation: app_time_stats: avg=550.60ms min=1.25ms max=21045.59ms count=39 
+16:08:05.223
+Android
+Log
+ 11-16 10:37:56.380 5543 I/o.stayeg.rvxkpm: Compiler allocated 4554KB to compile void com.example.stayeg.ui.screens.ExploreScreenKt.ExploreScreen(com.example.stayeg.ui.viewmodel.StayEgViewModel, androidx.compose.runtime.Composer, int) 
+16:08:05.223
+Android
+Log
+ 11-16 10:37:56.447 5543 I/o.stayeg.rvxkpm: Compiler allocated 10096KB to compile void com.example.stayeg.ui.components.PGCardKt$PGCard$2.invoke(androidx.compose.foundation.layout.ColumnScope, androidx.compose.runtime.Composer, int) 
+16:08:05.223
+Android
+Debug
+ 11-16 10:37:56.490 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:08:05.223
+Android
+Debug
+ 11-16 10:37:56.495 5543 D/TrafficStats: tagSocket(132) with statsTag=0xffffffff, statsUid=-1 
+16:08:05.223
+Android
+Warning
+ 11-16 10:37:56.731 5543 W/HWUI    : Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without... 
+16:08:05.223
+Android
+Warning
+ 11-16 10:37:56.739 5543 W/HWUI    : Failed to initialize 101010-2 format, error = EGL_SUCCESS 
+16:08:05.223
+Android
+Debug
+ 11-16 10:37:57.128 5543 D/EGL_emulation: app_time_stats: avg=15.27ms min=1.86ms max=51.52ms count=37 
+16:08:05.223
+Android
+Debug
+ 11-16 10:37:59.901 5543 D/EGL_emulation: app_time_stats: avg=2745.74ms min=2745.74ms max=2745.74ms count=1 
+16:08:05.223
+Android
+Debug
+ 11-16 10:38:02.369 5543 D/EGL_emulation: app_time_stats: avg=47.54ms min=1.32ms max=1490.96ms count=41 
+16:08:25.209
+Android
+Debug
+ 11-16 10:38:04.870 5543 D/EGL_emulation: app_time_stats: avg=48.95ms min=2.04ms max=1545.03ms count=41 
+16:08:25.209
+Android
+Debug
+ 11-16 10:38:06.317 5543 D/TrafficStats: tagSocket(115) with statsTag=0xffffffff, statsUid=-1 
+16:08:25.209
+Android
+Debug
+ 11-16 10:38:08.184 5543 D/EGL_emulation: app_time_stats: avg=66.52ms min=1.40ms max=2344.95ms count=42 
+16:08:25.209
+Android
+Debug
+ 11-16 10:38:09.191 5543 D/EGL_emulation: app_time_stats: avg=26.07ms min=1.60ms max=230.85ms count=26 
+16:08:25.209
+Android
+Debug
+ 11-16 10:38:11.085 5543 D/EGL_emulation: app_time_stats: avg=462.79ms min=1.83ms max=1823.34ms count=4 
+16:08:25.209
+Android
+Log
+ 11-16 10:38:11.202 5543 I/o.stayeg.rvxkpm: Compiler allocated 4379KB to compile void com.example.stayeg.ui.components.StayEgComponentsKt$StayEgTopBar$2.invoke(androidx.compose.runtime.Composer, int) 
+16:08:25.209
+Android
+Debug
+ 11-16 10:38:15.174 5543 D/EGL_emulation: app_time_stats: avg=260.59ms min=1.97ms max=3673.80ms count=15 
+16:08:25.209
+Android
+Debug
+ 11-16 10:38:16.780 5543 D/TrafficStats: tagSocket(124) with statsTag=0xffffffff, statsUid=-1 
+16:08:25.209
+Android
+Debug
+ 11-16 10:38:17.536 5543 D/EGL_emulation: app_time_stats: avg=87.06ms min=2.05ms max=1758.37ms count=24 
+16:08:25.209
+Android
+Debug
+ 11-16 10:38:19.469 5543 D/EGL_emulation: app_time_stats: avg=62.32ms min=1.83ms max=1299.67ms count=26 
+16:08:45.214
+Android
+Debug
+ 11-16 10:38:24.251 5543 D/EGL_emulation: app_time_stats: avg=104.78ms min=1.54ms max=3852.87ms count=41 
+16:08:45.214
+Android
+Debug
+ 11-16 10:38:27.253 5543 D/TrafficStats: tagSocket(116) with statsTag=0xffffffff, statsUid=-1 
+16:08:45.214
+Android
+Debug
+ 11-16 10:38:37.727 5543 D/TrafficStats: tagSocket(116) with statsTag=0xffffffff, statsUid=-1 
+16:09:05.223
+Android
+Debug
+ 11-16 10:38:48.876 5543 D/TrafficStats: tagSocket(116) with statsTag=0xffffffff, statsUid=-1 
+16:09:05.223
+Android
+Debug
+ 11-16 10:38:59.337 5543 D/TrafficStats: tagSocket(116) with statsTag=0xffffffff, statsUid=-1 
+16:09:25.177
+Android
+Debug
+ 11-16 10:39:09.806 5543 D/TrafficStats: tagSocket(116) with statsTag=0xffffffff, statsUid=-1 
+16:09:25.177
+Android
+Debug
+ 11-16 10:39:20.270 5543 D/TrafficStats: tagSocket(116) with statsTag=0xffffffff, statsUid=-1 
+16:09:45.261
+Android
+Debug
+ 11-16 10:39:30.733 5543 D/TrafficStats: tagSocket(116) with statsTag=0xffffffff, statsUid=-1 
+16:09:45.261
+Android
+Debug
+ 11-16 10:39:41.214 5543 D/TrafficStats: tagSocket(116) with statsTag=0xffffffff, statsUid=-1 
+16:10:05.199
+Android
+Debug
+ 11-16 10:39:51.672 5543 D/TrafficStats: tagSocket(116) with statsTag=0xffffffff, statsUid=-1 
+16:10:05.199
+Android
+Debug
+ 11-16 10:39:56.867 5543 D/EGL_emulation: app_time_stats: avg=2302.74ms min=1.59ms max=91693.83ms count=40 
+16:10:05.200
+Android
+Debug
+ 11-16 10:40:02.142 5543 D/TrafficStats: tagSocket(96) with statsTag=0xffffffff, statsUid=-1 
+16:10:25.215
+Android
+Debug
+ 11-16 10:40:03.702 5543 D/EGL_emulation: app_time_stats: avg=146.17ms min=1.45ms max=5857.40ms count=43 
+16:10:25.215
+Android
+Debug
+ 11-16 10:40:08.185 5543 D/EGL_emulation: app_time_stats: avg=251.31ms min=1.99ms max=4089.81ms count=17 
+16:10:25.215
+Android
+Warning
+ 11-16 10:40:08.296 5543 W/WindowOnBackDispatcher: OnBackInvokedCallback is not enabled for the application.
+Set 'android:enableOnBackInvokedCallback="true"' in the application manifest. 
+16:10:25.215
+Android
+Debug
+ 11-16 10:40:09.209 5543 D/EGL_emulation: app_time_stats: avg=16.47ms min=4.59ms max=28.25ms count=35 
+16:10:25.215
+Android
+Debug
+ 11-16 10:40:10.245 5543 D/EGL_emulation: app_time_stats: avg=13.55ms min=6.05ms max=22.84ms count=39 
+16:10:25.215
+Android
+Debug
+ 11-16 10:40:12.611 5543 D/TrafficStats: tagSocket(120) with statsTag=0xffffffff, statsUid=-1 
+16:10:25.215
+Android
+Warning
+ 11-16 10:40:13.620 5543 W/WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda11@7fdba5f 
+16:10:25.215
+Android
+Debug
+ 11-16 10:40:13.645 5543 D/HWUI    : endAllActiveAnimators on 0xb4000071bcf32490 (UnprojectedRipple) with handle 0xb4000070ecf6d9d0 
+16:10:45.188
+Android
+Debug
+ 11-16 10:40:23.100 5543 D/TrafficStats: tagSocket(120) with statsTag=0xffffffff, statsUid=-1 
+16:10:45.188
+Android
+Debug
+ 11-16 10:40:33.562 5543 D/TrafficStats: tagSocket(120) with statsTag=0xffffffff, statsUid=-1 
+16:11:05.307
+Android
+Debug
+ 11-16 10:40:44.039 5543 D/TrafficStats: tagSocket(120) with statsTag=0xffffffff, statsUid=-1 
+16:11:05.307
+Android
+Debug
+ 11-16 10:40:54.494 5543 D/TrafficStats: tagSocket(120) with statsTag=0xffffffff, statsUid=-1 
+16:11:25.214
+Android
+Debug
+ 11-16 10:41:04.973 5543 D/TrafficStats: tagSocket(120) with statsTag=0xffffffff, statsUid=-1 
+16:11:25.214
+Android
+Debug
+ 11-16 10:41:15.467 5543 D/TrafficStats: tagSocket(120) with statsTag=0xffffffff, statsUid=-1 
+16:11:45.176
+Android
+Debug
+ 11-16 10:41:25.952 5543 D/TrafficStats: tagSocket(120) with statsTag=0xffffffff, statsUid=-1 
+16:11:45.176
+Android
+Debug
+ 11-16 10:41:36.429 5543 D/TrafficStats: tagSocket(120) with statsTag=0xffffffff, statsUid=-1 
+16:12:05.208
+Android
+Debug
+ 11-16 10:41:46.907 5543 D/TrafficStats: tagSocket(120) with statsTag=0xffffffff, statsUid=-1 
+16:12:05.208
+Android
+Debug
+ 11-16 10:41:57.391 5543 D/TrafficStats: tagSocket(120) with statsTag=0xffffffff, statsUid=-1 
+16:12:25.245
+Android
+Debug
+ 11-16 10:42:07.852 5543 D/TrafficStats: tagSocket(120) with statsTag=0xffffffff, statsUid=-1 
+16:12:25.245
+Android
+Debug
+ 11-16 10:42:18.346 5543 D/TrafficStats: tagSocket(120) with statsTag=0xffffffff, statsUid=-1 
+16:12:45.199
+Android
+Debug
+ 11-16 10:42:28.820 5543 D/TrafficStats: tagSocket(120) with statsTag=0xffffffff, statsUid=-1 
+16:12:45.199
+Android
+Debug
+ 11-16 10:42:39.321 5543 D/TrafficStats: tagSocket(120) with statsTag=0xffffffff, statsUid=-1 
+16:13:05.116
+Android
+Debug
+ 11-16 10:42:49.786 5543 D/TrafficStats: tagSocket(120) with statsTag=0xffffffff, statsUid=-1 
+16:13:05.116
+Android
+Debug
+ 11-16 10:43:00.276 5543 D/TrafficStats: tagSocket(120) with statsTag=0xffffffff, statsUid=-1 
+16:13:25.255
+Android
+Debug
+ 11-16 10:43:10.736 5543 D/TrafficStats: tagSocket(120) with statsTag=0xffffffff, statsUid=-1 
+16:13:25.255
+Android
+Debug
+ 11-16 10:43:21.215 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:13:45.261
+Android
+Debug
+ 11-16 10:43:31.683 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:13:45.261
+Android
+Debug
+ 11-16 10:43:42.177 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:14:05.342
+Android
+Debug
+ 11-16 10:43:52.638 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:14:25.407
+Android
+Debug
+ 11-16 10:44:03.133 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:14:25.407
+Android
+Debug
+ 11-16 10:44:13.627 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:14:45.316
+Android
+Debug
+ 11-16 10:44:24.091 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:14:45.316
+Android
+Debug
+ 11-16 10:44:34.556 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:15:05.304
+Android
+Debug
+ 11-16 10:44:45.041 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:15:05.304
+Android
+Debug
+ 11-16 10:44:55.521 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:15:25.458
+Android
+Debug
+ 11-16 10:45:05.987 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:15:25.458
+Android
+Debug
+ 11-16 10:45:16.469 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:15:45.147
+Android
+Debug
+ 11-16 10:45:26.928 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:15:45.147
+Android
+Debug
+ 11-16 10:45:37.391 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:16:05.250
+Android
+Debug
+ 11-16 10:45:47.881 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:16:05.250
+Android
+Debug
+ 11-16 10:45:58.344 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:16:23.390
+Backend
+Log
+ CONNECTED 
+16:16:25.255
+Android
+Debug
+ 11-16 10:46:08.807 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:16:25.255
+Android
+Debug
+ 11-16 10:46:19.305 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:16:45.163
+Android
+Debug
+ 11-16 10:46:29.778 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:16:45.163
+Android
+Debug
+ 11-16 10:46:40.244 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:17:05.208
+Android
+Debug
+ 11-16 10:46:50.752 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:17:05.208
+Android
+Debug
+ 11-16 10:47:01.256 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:17:25.304
+Android
+Debug
+ 11-16 10:47:11.748 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:17:25.304
+Android
+Debug
+ 11-16 10:47:22.214 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:17:45.216
+Android
+Debug
+ 11-16 10:47:32.678 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:18:05.281
+Android
+Debug
+ 11-16 10:47:43.146 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:18:05.281
+Android
+Debug
+ 11-16 10:47:53.645 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:18:25.673
+Android
+Debug
+ 11-16 10:48:04.130 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:18:25.673
+Android
+Debug
+ 11-16 10:48:14.589 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:18:45.332
+Android
+Debug
+ 11-16 10:48:25.058 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:18:45.332
+Android
+Debug
+ 11-16 10:48:35.554 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:19:05.771
+Android
+Debug
+ 11-16 10:48:46.019 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:19:05.772
+Android
+Debug
+ 11-16 10:48:56.518 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:19:25.435
+Android
+Debug
+ 11-16 10:49:06.986 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:19:25.436
+Android
+Debug
+ 11-16 10:49:17.449 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:19:45.393
+Android
+Debug
+ 11-16 10:49:27.927 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:19:45.393
+Android
+Debug
+ 11-16 10:49:38.432 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:20:05.250
+Android
+Debug
+ 11-16 10:49:48.896 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:20:05.251
+Android
+Debug
+ 11-16 10:49:59.352 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:20:25.174
+Android
+Debug
+ 11-16 10:50:09.829 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:20:25.174
+Android
+Debug
+ 11-16 10:50:20.293 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:20:45.219
+Android
+Debug
+ 11-16 10:50:30.754 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:20:45.219
+Android
+Debug
+ 11-16 10:50:41.243 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:21:05.429
+Android
+Debug
+ 11-16 10:50:51.723 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:21:05.429
+Android
+Debug
+ 11-16 10:51:02.197 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:21:25.431
+Android
+Debug
+ 11-16 10:51:12.660 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:21:45.342
+Android
+Debug
+ 11-16 10:51:23.138 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:21:45.342
+Android
+Debug
+ 11-16 10:51:33.622 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:22:05.305
+Android
+Debug
+ 11-16 10:51:44.096 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:22:05.305
+Android
+Debug
+ 11-16 10:51:54.572 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:22:25.201
+Android
+Debug
+ 11-16 10:52:05.049 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:22:25.201
+Android
+Debug
+ 11-16 10:52:15.530 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:22:45.348
+Android
+Debug
+ 11-16 10:52:26.009 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:22:45.348
+Android
+Debug
+ 11-16 10:52:36.491 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:23:05.314
+Android
+Debug
+ 11-16 10:52:46.960 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:23:05.314
+Android
+Debug
+ 11-16 10:52:57.438 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:23:25.167
+Android
+Debug
+ 11-16 10:53:07.898 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:23:25.167
+Android
+Debug
+ 11-16 10:53:18.356 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:23:45.254
+Android
+Debug
+ 11-16 10:53:28.829 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:23:45.254
+Android
+Debug
+ 11-16 10:53:39.314 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:24:05.200
+Android
+Debug
+ 11-16 10:53:49.786 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:24:05.201
+Android
+Debug
+ 11-16 10:54:00.262 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:24:25.125
+Android
+Debug
+ 11-16 10:54:10.740 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:24:25.125
+Android
+Debug
+ 11-16 10:54:21.198 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:24:45.520
+Android
+Debug
+ 11-16 10:54:31.672 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:24:45.520
+Android
+Debug
+ 11-16 10:54:42.141 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:25:05.309
+Android
+Debug
+ 11-16 10:54:52.601 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:25:25.373
+Android
+Debug
+ 11-16 10:55:03.092 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:25:25.373
+Android
+Debug
+ 11-16 10:55:13.548 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:25:45.438
+Android
+Debug
+ 11-16 10:55:24.004 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:25:45.438
+Android
+Debug
+ 11-16 10:55:34.463 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:26:05.234
+Android
+Debug
+ 11-16 10:55:44.964 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:26:05.234
+Android
+Debug
+ 11-16 10:55:55.438 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:26:26.444
+Backend
+Log
+ CONNECTED 
+16:26:26.742
+Android
+Debug
+ 11-16 10:56:05.946 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:26:26.742
+Android
+Debug
+ 11-16 10:56:16.425 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:26:45.202
+Android
+Debug
+ 11-16 10:56:26.886 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:26:45.202
+Android
+Debug
+ 11-16 10:56:37.361 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:27:05.148
+Android
+Debug
+ 11-16 10:56:47.839 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:27:05.148
+Android
+Debug
+ 11-16 10:56:58.299 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:27:25.286
+Android
+Debug
+ 11-16 10:57:08.787 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 
+16:27:25.286
+Android
+Debug
+ 11-16 10:57:19.254 5543 D/TrafficStats: tagSocket(119) with statsTag=0xffffffff, statsUid=-1 

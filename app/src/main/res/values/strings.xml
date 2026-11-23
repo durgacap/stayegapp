@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StayEg</string>
+    <string name="app_tagline">India\'s #1 Smart PG Platform</string>
+    <string name="search_hint">Search PG by name, locality, or landmark…</string>
+    <string name="zero_brokerage">Zero Brokerage · 100% Verified PGs</string>
+    <string name="book_now">Book Now</string>
+    <string name="pay_rent">Pay Rent</string>
+    <string name="raise_complaint">Raise Complaint</string>
+</resources>
